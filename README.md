@@ -7,5 +7,5 @@
 *Step 4*: Open the report which is under TestReport Folder and see the test results with Screen shots attached</br>
 
 
-Thanks
+Thanks</br>
 Priyanka
